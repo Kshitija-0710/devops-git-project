@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Node/Python
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
