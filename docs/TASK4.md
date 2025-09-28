@@ -1,4 +1,4 @@
-# TASK 4: Version-Controlled DevOps Project
+# Version-Controlled DevOps Project Demo
 
 ## Objective
 Manage project using Git best practices.
